@@ -10,3 +10,5 @@ Run the program and just click the button to start the process. The only interve
 The program will run the first flash, then exit after 20 seconds It will then run the flash again until it completes
 
 Mark 2 added links for original document and links to the video guide and my youtube channel
+
+Link to youtube video showing the tool being run is here https://www.youtube.com/watch?v=OtHFYzQblhg
