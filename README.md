@@ -1,7 +1,8 @@
+This is version 4 and includes files to flash the FC200 camera, i have found that 3 different set of files work and these are included
 
 A tool to help those who want to flash the WIFI module but dont know DOS
 
-This is a self extracting WINRAR archive, it will install the files into user folder > flash it will also create a short cut on the desktop TO USE IS SIMPLE
+This is a self extracting WINRAR archive, it will install the files into user folder > %userprofile%\flash it will also create a short cut on the desktop TO USE IS SIMPLE
 
 ensure the TTL board is connected and you have wired up the WIFI board correctly
 
