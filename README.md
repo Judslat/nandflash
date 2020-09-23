@@ -1,4 +1,4 @@
-This is version 4 and includes files to flash the FC200 camera, i have found that 3 different set of files work and these are included
+
 
 A tool to help those who want to flash the WIFI module but dont know DOS
 
