@@ -1,3 +1,8 @@
+************IMPORTANT PLEASE READ*******************
+
+THE TOOL REQUIRES THAT THE FILES ARE EXTRACTED TO A USER PROFILE FOLDER OR THE TOOL WILL NOT RUN
+
+
 
 
 A tool to help those who want to flash the WIFI module but dont know DOS
