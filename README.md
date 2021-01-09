@@ -1,13 +1,11 @@
 ************IMPORTANT PLEASE READ*******************
-
-THE TOOL REQUIRES THAT THE FILES ARE EXTRACTED TO A USER PROFILE FOLDER OR THE TOOL WILL NOT RUN
-
-
-
+New installer file uploaded as the 
+previous versions were getting 
+flagged as a virus
 
 A tool to help those who want to flash the WIFI module but dont know DOS
 
-This is a self extracting WINRAR archive, it will install the files into user folder > %userprofile%\p2vpflash it will also create a short cut on the desktop TO USE IS SIMPLE
+ TO USE IS SIMPLE
 
 ensure the TTL board is connected and you have wired up the WIFI board correctly
 
